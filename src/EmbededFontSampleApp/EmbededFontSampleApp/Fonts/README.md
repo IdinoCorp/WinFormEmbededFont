@@ -1,0 +1,1 @@
+폰트 파일을 추가하고, 추가된 파일의 속성을 포함 리소스<small>Embeded Resource</small>로 변경합니다.
